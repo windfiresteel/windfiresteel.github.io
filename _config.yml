@@ -8,5 +8,10 @@ footer-links:
   twitter: windfiresteel
   youtube: user/<windfiresteel>
  
+ url: windfiresteel.github.io
+ 
  permalink: /:title/
  
+exclude: 
+  - README.md
+  
