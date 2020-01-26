@@ -9,7 +9,7 @@ footer-links:
   youtube: user/<windfiresteel>
  
  
- permalink: /:title/
+permalink: /:title/
  
 exclude: 
   - README.md
