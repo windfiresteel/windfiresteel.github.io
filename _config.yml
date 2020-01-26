@@ -1,1 +1,12 @@
+name: windfiresteel's blog
+description: A blog and collection of short stories
 theme: jekyll-theme-hacker
+
+footer-links:
+  github: windfiresteel
+  rss: ok
+  twitter: windfiresteel
+  youtube: user/<windfiresteel>
+ 
+ permalink: /:title/
+ 
