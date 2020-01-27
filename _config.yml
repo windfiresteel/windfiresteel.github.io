@@ -3,7 +3,9 @@ description: A blog and collection of short stories
 author: windfiresteel
 theme: jekyll-theme-hacker
 
+sidebar: true
+sidebar-about-description: is this working?
 github_user: windfiresteel
-rss: ok
+rss: true
 twitter: windfiresteel
-youtube: user/<windfiresteel>
+youtube: windfiresteel
