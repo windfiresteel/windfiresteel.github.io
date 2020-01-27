@@ -2,7 +2,7 @@ name: windfiresteel's blog
 description: A blog and collection of short stories
 theme: jekyll-theme-hacker
 
-footer-links:
+social-network-links:
   github: windfiresteel
   rss: ok
   twitter: windfiresteel
