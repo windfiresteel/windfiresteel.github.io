@@ -1,9 +1,9 @@
 name: windfiresteel's blog
 description: A blog and collection of short stories
+author: windfiresteel
 theme: jekyll-theme-hacker
 
-social-network-links:
-  github: windfiresteel
-  rss: true
-  twitter: windfiresteel
-  youtube: user/<windfiresteel>
+github_user: windfiresteel
+rss: ok
+twitter: windfiresteel
+youtube: user/<windfiresteel>
