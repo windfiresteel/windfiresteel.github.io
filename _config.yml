@@ -1,6 +1,6 @@
 name: windfiresteel's blog
 description: A blog and collection of short stories
-baseurl: windfiresteel.github.io/blog
+baseurl: /blog
 author: Ace
 theme: jekyll-theme-hacker
 
