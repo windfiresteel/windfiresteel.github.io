@@ -1,12 +1,6 @@
-#
-# This file contains configuration flags to customize your site
-#
 theme: jekyll-theme-hacker
-# Name of your site (displayed in the header)
-name: windfiresteel
-
-# Short bio or description (displayed in the header)
-description: 
+name: windfiresteel's blog
+description: Blog of windfiresteel
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
