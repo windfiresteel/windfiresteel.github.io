@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-New
+Hi, I go by Jon and write very rarely.
