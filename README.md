@@ -1,1 +1,1 @@
-A blog that was made by forking and uploading from Jekyll Now
+A personal blog and collection of short stories *eventually*
