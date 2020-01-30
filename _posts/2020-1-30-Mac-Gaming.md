@@ -1,2 +1,0 @@
-            # Mac Gaming
-    Gaming on a Mac used to be good, then it was painful, then it was about the same as windows and linux, and now it just doesn't seem worth it. then again what would I know about mac gaming in the past ten years? I stopped using my mac mostly around the release of Macos Yosemite, I think it was right after Mavericks. Honestly, I do still get excited hearing about plans to make video games work better on Macos. Good luck
