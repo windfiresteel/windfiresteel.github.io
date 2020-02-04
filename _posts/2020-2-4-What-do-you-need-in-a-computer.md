@@ -1,0 +1,1 @@
+What does anyone need with a computer? Why are so many computers built similarly when there are many different needs? Some people need to draw and take notes, while others need to type out code or fiction. Some people just need a portable tv/movie theater. I'm aware that this is going nowhere so it'll stop here
