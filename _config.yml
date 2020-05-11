@@ -1,2 +1,22 @@
 title: windfiresteel's blog
+name: windfiresteel's blog
+description: Blog of windfiresteel
 theme: jekyll-theme-hacker
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: windfiresteel
+  instagram:
+  linkedin:
+  pinterest:
+  rss: ok # just type anything here
+  twitter: 
+  stackoverflow:
+  youtube: user/windfiresteel
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
