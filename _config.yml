@@ -2,6 +2,7 @@ title: windfiresteel's blog
 name: windfiresteel's blog
 description: Blog of windfiresteel
 theme: jekyll-theme-hacker
+markdown: gfm
 
 footer-links:
   dribbble:
