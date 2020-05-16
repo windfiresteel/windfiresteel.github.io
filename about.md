@@ -1,8 +1,7 @@
 ---
-theme: hacker
-layout: page
+layout: default
 title: "About"
 permalink: /about/
 ---
 
-Hello
+Hello, I'm Ace and I mostly just watch youtube.
