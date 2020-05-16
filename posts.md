@@ -4,6 +4,6 @@ url: /posts
 title: Posts
 ---
 
-[Posts](/posts)
+[Posts](/_posts)
 [Welcome](/posts/2020-05-16-Welcome.md)
 [NOPE](/posts/2020-05-16-nope.md)
