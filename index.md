@@ -1,6 +1,6 @@
 ---
 layout: default
-title: windfiresteel Homepage
+title: Homepage
 ---
 
 [My Blog](https://windfiresteel.github.io/wfs-blog)
