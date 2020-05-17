@@ -8,4 +8,4 @@ title: Posts
 [NOPE](/posts/nope.md)
 [Raspberrypi](/posts/raspberrypi.md)
 [Fast](/posts/fast.md)
-[elementaryOS](/posts/elementary.md)
+[elementaryOS](/posts/elementaryOS.md)
