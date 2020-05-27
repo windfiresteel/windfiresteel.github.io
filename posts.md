@@ -9,3 +9,4 @@ title: Blog
 [Raspberrypi](/posts/raspberrypi.md)
 [Fast](/posts/fast.md)
 [elementaryOS](/posts/elementaryOS.md)
+[stadia](/posts/stadia.md)
