@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: linux
+tags: linux tech
 title: elementary OS is alright
 ---
 
