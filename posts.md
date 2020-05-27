@@ -1,7 +1,7 @@
 ---
 layout: default
 url: /posts
-title: Posts
+title: Blog
 ---
 
 [Welcome](/posts/welcome.md)
