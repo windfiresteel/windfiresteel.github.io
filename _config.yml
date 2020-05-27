@@ -1,21 +1,12 @@
 theme: jekyll-theme-hacker
-title: windfiresteel's blog
-name: windfiresteel's blog
-description: Blog of windfiresteel
-
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: windfiresteel
-  instagram:
-  linkedin:
-  pinterest:
-  rss: ok # just type anything here
-  twitter: 
-  stackoverflow:
-  youtube: user/windfiresteel
+title: Blog and Short story archive
+name: Jon's Site
+description: I will eventually repost all of my old short stories here and occaisionally blog
+email: windfiresteel1@gmail.com
+github: windfiresteel
+rss: ok # just type anything here
+twitter: windfiresteel 
+youtube: user/windfiresteel
 
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
