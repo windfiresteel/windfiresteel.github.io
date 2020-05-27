@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Homepage
+description: Blog and Short Story Archive
 ---
 
 [Welcome](/posts/welcome.md)
