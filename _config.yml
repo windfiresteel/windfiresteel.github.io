@@ -8,6 +8,11 @@ rss: ok # just type anything here
 twitter: windfiresteel 
 youtube: user/windfiresteel
 
+collections:
+  -stories
+  -tech
+  -games
+
 source: .
 destination: ./_site
 permalink: /:title
