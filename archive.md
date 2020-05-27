@@ -4,4 +4,4 @@ url: /archive
 title: Short Stories
 ---
 
-[Practice](/practice.md)
+[Practice](/stories/practice.md)
