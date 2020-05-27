@@ -5,4 +5,3 @@ title: NOPE
 ---
 
 *NOPE*
-[Home](https://windfiresteel.github.io/)
