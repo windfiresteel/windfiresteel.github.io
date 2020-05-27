@@ -8,4 +8,4 @@ description: Blog and Short Story Archive
 
 [About](http://windfiresteel.github.io/about)
 [My Blog](https://windfiresteel.github.io/archive)
-[Short Stories](my_collections/_stories)
+[Short Stories](https://windfiresteel.github.io/archive)
