@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: linux tech
+category: Blog
+tags: linux
 title: elementary OS is alright
 ---
 
