@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: hardware tech
+category: Blog
+tags: linux
 title: Raspberry Pi Rant
 ---
 
